@@ -1,2 +1,1 @@
-# template_repository
-Template Reporistory
+# Sample Template Repository
